@@ -1,2 +1,2 @@
 # test-repo
-test to the course
+Let's rock!
